@@ -1,0 +1,11 @@
+Metadata-Version: 2.4
+Name: backend
+Version: 0.0.0
+Requires-Dist: fastapi
+Requires-Dist: uvicorn
+Requires-Dist: sqlalchemy
+Requires-Dist: pydantic
+Requires-Dist: passlib[bcrypt]
+Requires-Dist: python-multipart
+Requires-Dist: pytest
+Requires-Dist: httpx
