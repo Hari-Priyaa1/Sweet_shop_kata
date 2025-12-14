@@ -1,26 +1,31 @@
- 🍰 Sweet Shop Kata - Full-Stack E-commerce Simulation
+ # 🍰 Sweet Shop Kata - Full-Stack E-commerce Simulation
 
- 🚀 Project Overview
+## 🚀 Project Overview
 
-This project is a full-stack web application designed to simulate a sweet shop's inventory and sales management system. It supports role-based access control, distinguishing between a "Customer" who can browse and purchase sweets, and a "Seller" who has full CRUD (Create, Read, Update, Delete) rights over the product inventory.
+This project is a full-stack web application designed to simulate a sweet shop's inventory and sales management system. It supports role-based access control, distinguishing between a **Customer** who can browse and purchase sweets, and a **Seller** who has full CRUD (Create, Read, Update, Delete) rights over the product inventory.
 
 The application serves as a complete demonstration of:
-Role-Based Access Control (RBAC): Secure login and protected API endpoints.
-Full CRUD Functionality: Inventory management for Sellers.
-Database Initialization: Consistent product data setup on the first run.
+* **Role-Based Access Control (RBAC):** Secure login and protected API endpoints.
+* **Full CRUD Functionality:** Inventory management for Sellers.
+* **Database Initialization:** Consistent product data setup on the first run.
 
 ## 🛠️ Tech Stack
 
 | Component | Technology | Description |
-Backend (API) | **Python/FastAPI** | Fast and modern API framework. |
-Database | **SQLite (via SQLAlchemy)** | Lightweight, file-based database. |
-Frontend (UI) | **React.js** | Modern JavaScript library for building the user interface. |
+| :--- | :--- | :--- |
+| **Backend (API)** | **Python/FastAPI** | Fast and modern API framework. |
+| **Database** | **SQLite (via SQLAlchemy)** | Lightweight, file-based database. |
+| **Frontend (UI)** | **React.js** | Modern JavaScript library for building the user interface. |
+
+
 
 📸 Application Screenshots
 
 
 
 <img width="1539" height="877" alt="Screenshot 2025-12-14 225917" src="https://github.com/user-attachments/assets/6225ab1a-a564-4637-ab95-887f08126308" />
+
+
 <img width="931" height="773" alt="Screenshot 2025-12-14 211638" src="https://github.com/user-attachments/assets/ef45b517-239a-4c5f-80db-06424803512d" />
 
 
