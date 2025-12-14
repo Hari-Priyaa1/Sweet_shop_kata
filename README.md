@@ -70,8 +70,31 @@ Follow these steps to get the Sweet Shop running on your machine:
     ```
     *The frontend will open in your browser at `http://localhost:3000`.*
 
- 
+## 🧪 Test Suite Results
 
+The application's functionality was validated using dedicated test suites for both the backend and the frontend.
+
+### Backend (FastAPI) Test Summary
+
+The backend API was tested using `pytest` to ensure all protected endpoints, authentication logic, and CRUD operations function as expected.
+
+```bash
+================== test session starts ==================
+platform win32 -- Python 3.14.0, pytest-9.0.2, pluggy-1.6.0
+rootdir: C:\Users\harip\sweet-shop-kataa
+plugins: anyio-4.12.0, asyncio-1.3.0
+asyncio: mode=Mode.STRICT, debug=False, asyncio_default_fixture_loop_scope=None, asyncio_default_test_loop_scope=function
+collected 13 items                       
+
+test_main.py .............               [100%]
+
+================== 13 passed in 15.44s ==================
+
+```
+
+
+
+The frontend components and utility functions were tested using `Jest` via `npm test` to ensure c
 ## 🤖 AI Usage Policy
 
 This project utilized an AI assistant to accelerate development, adhering strictly to the assignment guidelines.
