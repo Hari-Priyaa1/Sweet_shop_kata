@@ -26,7 +26,7 @@ The application serves as a complete demonstration of:
 <img width="1539" height="877" alt="Screenshot 2025-12-14 225917" src="https://github.com/user-attachments/assets/6225ab1a-a564-4637-ab95-887f08126308" />
 
 
-<img width="931" height="773" alt="Screenshot 2025-12-14 211638" src="https://github.com/user-attachments/assets/ef45b517-239a-4c5f-80db-06424803512d" />
+<img width="1404" height="732" alt="Screenshot 2025-12-16 125709" src="https://github.com/user-attachments/assets/b1cecab0-9b3a-40f4-9b82-f6021621f060" />
 
 
  ## 🏃 Getting Started (How to RunLocally)
